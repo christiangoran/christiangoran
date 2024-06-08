@@ -2,7 +2,9 @@
 
 I am Christian Göran, a Full-Stack Software Developer with a focus on frontend development and over 10 years experience in Web development & digital design. Find out more about me and get in touch here:
 
-Last projects included finishing a course at Umeå University in Deep Learning with an exam project in building a neural network model that recognizes sign language in real time, as well as finishing a course in Computer Communication.
+Last learning projects included finishing a course at Umeå University in Deep Learning with an exam project in building a neural network model that recognizes sign language in real time, as well as finishing a course in Computer Communication.
+
+Meanwhile I am developing websites & platforms for clients using mainly React, Webflow and Figma.
 
 [![Linkedin Badge](https://img.shields.io/badge/-christiangoran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/christiangoran/)](https://www.linkedin.com/in/christiangoran/)
 [![Gmail Badge](https://img.shields.io/badge/-christian.goran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christian.goran@gmail.com)](mailto:christian.goran@gmail.com)
