@@ -8,6 +8,11 @@ My strengths are predictable data flows, schema-driven forms, scalable component
 Before software engineering I worked in aviation — which shaped how I think:  
 calm, structured, precise, and focused on building systems that don’t break.
 
+
+## 📉 Note about this GitHub
+Most of my recent work is in private repos (cybersecurity & enterprise projects).  
+I’m gradually adding new public experiments, patterns and small tools when possible.
+
 ---
 
 ## 🔧 Tech I Use Daily
@@ -35,6 +40,3 @@ Email: **christian.goran@gmail.com**
 
 ---
 
-## 📉 Note about this GitHub
-Most of my recent work is in private repos (cybersecurity & enterprise projects).  
-I’m gradually adding new public experiments, patterns and small tools when possible.
